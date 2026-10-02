@@ -40,3 +40,4 @@ Sistema de automatización que clasifica y responde consultas de clientes de Ama
 - **Base de datos (Airtable, modo lectura):** https://airtable.com/app38YORxICl3NLtc/shrUMqPjkHvliwVpY
 - **Evidencias de testing:** incluidas en el PDF (Sección 6.2)
 - **Dashboard de control:** incluido en el PDF (Sección 6.3)
+- ## Video demo [Ver demo del sistema en funcionamiento (3 min)]https://youtu.be/9zJh9DpaWyA
